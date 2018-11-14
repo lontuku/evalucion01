@@ -1,8 +1,54 @@
 .navbar{
 	position: fixed;
 	width: 100vw;
+	border:none;
+	z-index: 100;
+	height: 70px;
+}
+.navbar-brand{
+	padding:0;
+}
+.nav.navbar-nav{
+	padding: 9px;
+
+}
+
+.actual{
+	font-weight: 900;
+	text-decoration: underline;
+}
+
+.logo{
+	height: 70px;
+}
+
+.noticias{
+	padding-top:2%;
+}
+
+.banner{
+	background-image: url(esteto.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #d6d6d6;
+
+
 }
 
 .jumbotron{
 	text-align: center;
 }
+
+.jumbotron .boton{
+	margin-top: 50px;
+	color:#efe6e6;
+}
+
+.intro{
+	text-align: center;
+}
+
+.foto{
+	margin: auto;
+}
+
