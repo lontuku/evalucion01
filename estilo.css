@@ -8,6 +8,10 @@
 .navbar-brand{
 	padding:0;
 }
+
+.navbar.navbar-default{
+	background-color: #fffefea6;
+}
 .nav.navbar-nav{
 	padding: 9px;
 
@@ -31,12 +35,9 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: #d6d6d6;
-
-
-}
-
-.jumbotron{
 	text-align: center;
+
+
 }
 
 .jumbotron .boton{
@@ -48,7 +49,19 @@
 	text-align: center;
 }
 
+.titulo{
+	text-align: center;
+}
 .foto{
 	margin: auto;
 }
+
+.footer{
+	padding-top: 100px;
+}
+
+.mensaje{
+	height: 98px;
+}
+
 
